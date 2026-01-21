@@ -1,0 +1,2 @@
+# doctemplate
+A documentation template
